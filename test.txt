@@ -1,0 +1,1 @@
+{"players": [{"shards": "[666]", "energy": "22", "defence": "8.0", "name": "\u0442\u0442\u0442", "income": "6"}, {"shards": "[]", "energy": "22", "defence": "8.0", "name": "Wwaw", "income": "6"}], "shards": [{"perks": "[]", "defence": "0", "name": "", "tactic": "warrior", "owner": "\u0442\u0442\u0442", "description": "", "number": "666", "trophies": "[]", "height": "0"}]}
